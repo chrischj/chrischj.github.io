@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sunport.tk/tags/index.html</loc>
+    
+    <lastmod>2020-08-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://sunport.tk/sitemap/index.html</loc>
     
     <lastmod>2020-08-07</lastmod>
@@ -16,13 +23,6 @@
   </url>
   
   <url>
-    <loc>http://sunport.tk/about/index.html</loc>
-    
-    <lastmod>2020-08-07</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://sunport.tk/categories/index.html</loc>
     
     <lastmod>2020-08-07</lastmod>
@@ -30,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://sunport.tk/tags/index.html</loc>
+    <loc>http://sunport.tk/about/index.html</loc>
     
     <lastmod>2020-08-07</lastmod>
     

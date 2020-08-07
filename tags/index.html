@@ -430,15 +430,15 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     });
     new Valine({
       el         : '#valine-comments',
-      verify     : true,
+      verify     : false,
       notify     : false,
       appId      : 'XoKBsLqhE5TbOFYVJQXoiQoH-gzGzoHsz',
       appKey     : 'Lj6sTig7DlUrUb1QmIezz83q',
       placeholder: "Just go go",
-      avatar     : 'mm',
+      avatar     : 'hide',
       meta       : guest,
       pageSize   : '10' || 10,
-      visitor    : true,
+      visitor    : false,
       lang       : '' || 'zh-cn',
       path       : location.pathname,
       recordIP   : false,

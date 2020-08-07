@@ -222,13 +222,6 @@
             </span>
 
           
-            <span id="/2020/08/08/hello-world/" class="post-meta-item leancloud_visitors" data-flag-title="Hello World" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
             <span class="post-meta-item" title="Views" id="busuanzi_container_page_pv" style="display: none;">
               <span class="post-meta-item-icon">
                 <i class="fa fa-eye"></i>
@@ -491,15 +484,15 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
     });
     new Valine({
       el         : '#valine-comments',
-      verify     : true,
+      verify     : false,
       notify     : false,
       appId      : 'XoKBsLqhE5TbOFYVJQXoiQoH-gzGzoHsz',
       appKey     : 'Lj6sTig7DlUrUb1QmIezz83q',
       placeholder: "Just go go",
-      avatar     : 'mm',
+      avatar     : 'hide',
       meta       : guest,
       pageSize   : '10' || 10,
-      visitor    : true,
+      visitor    : false,
       lang       : '' || 'zh-cn',
       path       : location.pathname,
       recordIP   : false,

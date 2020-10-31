@@ -4,13 +4,57 @@
   
     
     <entry>
+      <title>健身房里的卡路里</title>
+      <link href="/2020/11/01/idea-body/"/>
+      <url>/2020/11/01/idea-body/</url>
+      
+        <content type="html"><![CDATA[<p>其实挺早的一个脑洞了，当时跟自己的教练还聊过，今天又想起来，还是记录一下。</p><p>现在很多人都有每周打卡健身房的习惯了，根据能量守恒原则你挥洒出去汗水的同时伴随着大量能量的付出，你对每一个器材做功所消耗自身的能量大多很可惜的消散在空气里了。</p><p>有没有可能利用起来这一部分能量？<br>答案应该是可以的，例如说最基本的利用就回馈到器材自身，通过硬件软件上的设计让划船机存储你拉动手柄的能量用作信息锻炼数据记录和展示，通过踩踏力量带动登山机转动供给数据记录。<br>更进一步呢？是否我们可以安排一些不插电健身器材到各小区街道等公共场所，让大家“发电”使用，收集的能量可以供给给路灯等低消耗公共设施？</p><p>想想真的好有前景～</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 脑洞 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GGSDDU</title>
+      <link href="/2020/08/24/GGSDDU/"/>
+      <url>/2020/08/24/GGSDDU/</url>
+      
+        <content type="html"><![CDATA[<p>如果暂时没有追求的目标，不妨学习吧。<br>学习能带来愉悦感，学习能让你保持乐观向上的心态，学习能让时间变得没有那么的虚度。</p><p>Good Good Study，Day Day Up！</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/08/08/hello-world/"/>
       <url>/2020/08/08/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>一个新的起点。</p><p>再见，Wordpress。</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 随记 </tag>
+            
+        </tags>
       
     </entry>
     
